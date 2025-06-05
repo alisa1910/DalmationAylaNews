@@ -54,21 +54,21 @@ img:hover {
 summary {
     font-family: "Courier New";
     font-size: 20px;
-    list-style-image: url("/DalmationAylaNews/images/газета смайлик-no-bg-preview (carve.photos) (1).png");
-  
+    list-style-image: url("./images/газета смайлик-no-bg-preview (carve.photos) (1).png");
+  list-style-type: circle;
 }
 details {
     border: thick double;
     border-radius: 2px;
     margin-bottom: 5px;
-    background-image: url("/DalmationAylaNews/images/фон.jpg");
+    background-image: url("./images/фон.jpg");
 }
 .news-img-169 {
     height: 320px;
     width: 180px;
 }
 body {
-    background-image: url("/DalmationAylaNews/images/фон.jpg");
+    background-image: url("./images/фон.jpg");
 }
 .news-img-11 {
     height: 250px;
